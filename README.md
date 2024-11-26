@@ -1,4 +1,6 @@
-This repository contains the mini project for module4.
+# Run main.py file.
+
+This repository contains the mini project for module4.  
 
 The app allows the following operations:
    
